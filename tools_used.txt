@@ -1,0 +1,1 @@
+https://quantizd.com/building-a-snipping-tool-with-electron-react-and-node-js/

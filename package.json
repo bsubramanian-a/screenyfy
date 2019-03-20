@@ -1,0 +1,25 @@
+{
+  "name": "screenyfy",
+  "version": "1.0.0",
+  "description": "A Screenshot Application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bsubramanian-a/screenyfy.git"
+  },
+  "keywords": [
+    "Screenshot"
+  ],
+  "author": "Rajavel Balasubramanian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bsubramanian-a/screenyfy/issues"
+  },
+  "homepage": "https://github.com/bsubramanian-a/screenyfy#readme",
+  "dependencies": {
+    "electron": "^4.1.0"
+  }
+}
